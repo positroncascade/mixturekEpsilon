@@ -1,0 +1,4 @@
+mixturekEpsilon.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmixturekEpsilonRASModels
+
